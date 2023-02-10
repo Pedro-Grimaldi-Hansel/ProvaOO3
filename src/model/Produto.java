@@ -5,6 +5,6 @@ public class Produto {
     private String nome;
     private String descricao;
     private float preco;
-
     private EspecificacaoProduto especificacaoProduto;
+
 }
